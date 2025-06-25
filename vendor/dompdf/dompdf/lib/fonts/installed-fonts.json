@@ -1,0 +1,59 @@
+{
+    "dm sans": {
+        "100_italic": "C:\\xampp\\htdocs\\ExpertUs-App\\vendor\\dompdf\\dompdf\/lib\/fonts\/dm_sans_100_italic_62bd9700a8f3cbe196e82e855d89b0ff",
+        "200_italic": "C:\\xampp\\htdocs\\ExpertUs-App\\vendor\\dompdf\\dompdf\/lib\/fonts\/dm_sans_200_italic_1a249331b3c6d6f9c5022c09184e5acf",
+        "300_italic": "C:\\xampp\\htdocs\\ExpertUs-App\\vendor\\dompdf\\dompdf\/lib\/fonts\/dm_sans_300_italic_d0b6f2f380644d5e1b067c42bd956d0b",
+        "italic": "C:\\xampp\\htdocs\\ExpertUs-App\\vendor\\dompdf\\dompdf\/lib\/fonts\/dm_sans_italic_1f6edd054b1b46b544da5375c35e78d0",
+        "500_italic": "C:\\xampp\\htdocs\\ExpertUs-App\\vendor\\dompdf\\dompdf\/lib\/fonts\/dm_sans_500_italic_f5a8af72c96cb29da55a7d812b13478e",
+        "600_italic": "C:\\xampp\\htdocs\\ExpertUs-App\\vendor\\dompdf\\dompdf\/lib\/fonts\/dm_sans_600_italic_f9369c2003dca8d6e0cc38885fe29cef",
+        "bold_italic": "C:\\xampp\\htdocs\\ExpertUs-App\\vendor\\dompdf\\dompdf\/lib\/fonts\/dm_sans_bold_italic_0847283661673bb7314d120dc33761a9",
+        "800_italic": "C:\\xampp\\htdocs\\ExpertUs-App\\vendor\\dompdf\\dompdf\/lib\/fonts\/dm_sans_800_italic_378fc65c92dc9e54d288b98d337a3de7",
+        "900_italic": "C:\\xampp\\htdocs\\ExpertUs-App\\vendor\\dompdf\\dompdf\/lib\/fonts\/dm_sans_900_italic_2cf3078b35ed16853c9104e275a2d3d8",
+        "100": "C:\\xampp\\htdocs\\ExpertUs-App\\vendor\\dompdf\\dompdf\/lib\/fonts\/dm_sans_100_1006264d78d37b791125f12067c8037e",
+        "200": "C:\\xampp\\htdocs\\ExpertUs-App\\vendor\\dompdf\\dompdf\/lib\/fonts\/dm_sans_200_4da933e6e32fa74c1e6814ef6945122f",
+        "300": "C:\\xampp\\htdocs\\ExpertUs-App\\vendor\\dompdf\\dompdf\/lib\/fonts\/dm_sans_300_0616a56b886ff52ea0d2b68f15756d4f",
+        "normal": "C:\\xampp\\htdocs\\ExpertUs-App\\vendor\\dompdf\\dompdf\/lib\/fonts\/dm_sans_normal_86570f13ae6d8ba60a7f1cc9f8b7980c",
+        "500": "C:\\xampp\\htdocs\\ExpertUs-App\\vendor\\dompdf\\dompdf\/lib\/fonts\/dm_sans_500_d5c544d165f7595c57a50b0a153264ec",
+        "600": "C:\\xampp\\htdocs\\ExpertUs-App\\vendor\\dompdf\\dompdf\/lib\/fonts\/dm_sans_600_9bb04ffef40970082e6a7d163c7dede4",
+        "bold": "dm_sans_bold_00776f2f3cf5db73851c0afc0ab90614",
+        "800": "C:\\xampp\\htdocs\\ExpertUs-App\\vendor\\dompdf\\dompdf\/lib\/fonts\/dm_sans_800_71b9aadce12124dd1fd6a9a40955fa21",
+        "900": "C:\\xampp\\htdocs\\ExpertUs-App\\vendor\\dompdf\\dompdf\/lib\/fonts\/dm_sans_900_c260eb66cb6bcaab825e35fa8c2cfd8c"
+    },
+    "poppins": {
+        "100_italic": "C:\\xampp\\htdocs\\ExpertUs-App\\vendor\\dompdf\\dompdf\/lib\/fonts\/poppins_100_italic_42d69a6b635f5fb57f117605baf43f30",
+        "200_italic": "C:\\xampp\\htdocs\\ExpertUs-App\\vendor\\dompdf\\dompdf\/lib\/fonts\/poppins_200_italic_31d2a95a2d43fbaa7119b509e4c3f049",
+        "300_italic": "C:\\xampp\\htdocs\\ExpertUs-App\\vendor\\dompdf\\dompdf\/lib\/fonts\/poppins_300_italic_571ff6151d2abcfb28f4ad285924f624",
+        "italic": "C:\\xampp\\htdocs\\ExpertUs-App\\vendor\\dompdf\\dompdf\/lib\/fonts\/poppins_italic_11677d11ae3d58aa7603b629f870be1a",
+        "500_italic": "C:\\xampp\\htdocs\\ExpertUs-App\\vendor\\dompdf\\dompdf\/lib\/fonts\/poppins_500_italic_00e8237606ffe9e7756869f84f5ebcf9",
+        "600_italic": "C:\\xampp\\htdocs\\ExpertUs-App\\vendor\\dompdf\\dompdf\/lib\/fonts\/poppins_600_italic_14a3b5633f09679886d6b33558575f6b",
+        "bold_italic": "C:\\xampp\\htdocs\\ExpertUs-App\\vendor\\dompdf\\dompdf\/lib\/fonts\/poppins_bold_italic_bc75910dd57932b3bbc151afb8214e1a",
+        "800_italic": "C:\\xampp\\htdocs\\ExpertUs-App\\vendor\\dompdf\\dompdf\/lib\/fonts\/poppins_800_italic_01c04385ee2f53a64c1c4dac31763d96",
+        "900_italic": "C:\\xampp\\htdocs\\ExpertUs-App\\vendor\\dompdf\\dompdf\/lib\/fonts\/poppins_900_italic_82e277104276ebb937a63ced103212bb",
+        "100": "C:\\xampp\\htdocs\\ExpertUs-App\\vendor\\dompdf\\dompdf\/lib\/fonts\/poppins_100_508e37547eeea700f45a87feef192def",
+        "200": "C:\\xampp\\htdocs\\ExpertUs-App\\vendor\\dompdf\\dompdf\/lib\/fonts\/poppins_200_29c21409adf3b4e76b3768139f66aeb3",
+        "300": "C:\\xampp\\htdocs\\ExpertUs-App\\vendor\\dompdf\\dompdf\/lib\/fonts\/poppins_300_6803ad4fe8fecdbaeff0adce8839c330",
+        "normal": "C:\\xampp\\htdocs\\ExpertUs-App\\vendor\\dompdf\\dompdf\/lib\/fonts\/poppins_normal_c6711d47669d7317aa5bfeda9f1dded3",
+        "500": "C:\\xampp\\htdocs\\ExpertUs-App\\vendor\\dompdf\\dompdf\/lib\/fonts\/poppins_500_a8989f7b44a711b1b2ef07347b37ec13",
+        "600": "C:\\xampp\\htdocs\\ExpertUs-App\\vendor\\dompdf\\dompdf\/lib\/fonts\/poppins_600_8766355d2de6e5a80a8dfebc31aeaedf",
+        "bold": "C:\\xampp\\htdocs\\ExpertUs-App\\vendor\\dompdf\\dompdf\/lib\/fonts\/poppins_bold_e65267788fadc7206923de221454a2be",
+        "800": "C:\\xampp\\htdocs\\ExpertUs-App\\vendor\\dompdf\\dompdf\/lib\/fonts\/poppins_800_4d213da9acc5f38b6643dc0986e0c1d6",
+        "900": "poppins_900_f8f9da2604e054678b987e8c9b1551c0"
+    },
+    "font awesome 6 brands": {
+        "normal": "font_awesome_6_brands_normal_31636509732b4298588040c87c3592c6"
+    },
+    "font awesome 6 free": {
+        "normal": "C:\\xampp\\htdocs\\ExpertUs-App\\vendor\\dompdf\\dompdf\/lib\/fonts\/font_awesome_6_free_normal_1321bfcfa727e01fd6f51a5f5864a82b",
+        "900": "font_awesome_6_free_900_a4b7023c0a078a27002a27fd500f100e"
+    },
+    "font awesome 5 brands": {
+        "normal": "font_awesome_5_brands_normal_31636509732b4298588040c87c3592c6"
+    },
+    "font awesome 5 free": {
+        "900": "C:\\xampp\\htdocs\\ExpertUs-App\\vendor\\dompdf\\dompdf\/lib\/fonts\/font_awesome_5_free_900_a4b7023c0a078a27002a27fd500f100e",
+        "normal": "font_awesome_5_free_normal_1321bfcfa727e01fd6f51a5f5864a82b"
+    },
+    "fontawesome": {
+        "normal": "fontawesome_normal_98ba43c5288785d68524e2de74fccc87"
+    }
+}
